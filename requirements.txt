@@ -7,3 +7,6 @@ yt_dlp
 modelscope
 psutil
 sqlalchemy
+streamlit
+pandas
+python-dotenv
